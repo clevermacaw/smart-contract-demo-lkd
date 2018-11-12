@@ -77,7 +77,10 @@ The token has only one special function: `_burn`. This lets the token holder bur
 
 For full source of token contract please see `contracts/LKD_flattened.sol`.
 
-The token has been deployed to Ropsten at address `0x02ACC13C1d5Bf5230777E4B77b70D444f80c57aB`.
+The token has been deployed to:
+- Ropsten (testnet): `0x02ACC13C1d5Bf5230777E4B77b70D444f80c57aB`
+- Rinkeby (testnet): `0x7f5e0aad3fabc8a4543186dba4da11d583b94f81`
+- Mainnet: `0x9a585ca4959adfe3bcd3049c5f999bcc61280af6`
 
 ### Audit
 
